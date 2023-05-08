@@ -169,3 +169,6 @@ h6{
   will-change: transform,opacity;
   z-index: 0;
 }
+.footer{
+    margin-top: 20px;
+}
