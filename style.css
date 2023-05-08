@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 400px;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    border: 1px solid grey;
+}
