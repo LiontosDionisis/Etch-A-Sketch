@@ -59,5 +59,5 @@ function setColor(colorChoice){
 
 function resetBoard(){
     let boxes = document.querySelectorAll("div")
-    boxes.forEach((div) => div.style.backgroundColor = "white");
+    boxes.forEach((box) => box.style.backgroundColor = "white");
 }
